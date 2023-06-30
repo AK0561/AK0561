@@ -15,7 +15,7 @@ I have a strong background in Web Development, and I love diving into the world 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK0561&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AK0561&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AK0561&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Let's Connect
