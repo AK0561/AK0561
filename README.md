@@ -12,9 +12,10 @@ I have a strong background in Web Development, and I love diving into the world 
 
 # My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK0561&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK0561&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-Let's Connect
+## Let's Connect
+
 I'm always eager to connect with fellow developers, share knowledge, and collaborate on interesting projects. You can find me on [LinkedIn](www.linkedin.com/in/arnavaggarwal13203).Don't hesitate to drop me a message—I'd love to hear from you!
 
 Thank you for visiting my GitHub profile. Happy coding! 🚀
