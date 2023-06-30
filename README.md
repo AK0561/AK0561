@@ -15,9 +15,6 @@ I have a strong background in Web Development, and I love diving into the world 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK0561&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AK0561&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Let's Connect
 I'm always eager to connect with fellow developers, share knowledge, and collaborate on interesting projects. You can find me on [LinkedIn](www.linkedin.com/in/arnavaggarwal13203).Don't hesitate to drop me a message—I'd love to hear from you!
 
