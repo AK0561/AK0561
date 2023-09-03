@@ -22,6 +22,8 @@ I have a strong background in Web Development, and I love diving into the world 
 ![nodejs-horizontal](https://github.com/AK0561/AK0561/assets/97022114/f44daed6-ca0e-4dca-86cd-77363d234f71)
 ![expressjs-ar21](https://github.com/AK0561/AK0561/assets/97022114/2768c44b-413a-4e61-8f0b-1ccd1950e28b)
 ![mongodb-ar21](https://github.com/AK0561/AK0561/assets/97022114/4ecaf212-1cc2-411e-a9a5-4ec694beb737)
+![arduino-icon](https://github.com/AK0561/AK0561/assets/97022114/624ce17d-ef42-475f-ad1d-e921255cbeb4)
+![raspberrypi-icon](https://github.com/AK0561/AK0561/assets/97022114/361d40b5-bdf1-4afe-93ea-a1b9157a50c6)
 ![icons8-c-programming](https://github.com/AK0561/AK0561/assets/97022114/2a0177be-9fe2-4635-a89c-a91b9d110fa8)
 ![icons8-c++](https://github.com/AK0561/AK0561/assets/97022114/2ce7e20d-e4b4-4bc6-ab34-03f7b1f72c67)
 ![python-icon](https://github.com/AK0561/AK0561/assets/97022114/8a83ebc7-695e-404a-b387-cd37c1dfba24)
