@@ -14,8 +14,6 @@ I have a strong background in Web Development, and I love diving into the world 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK0561&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-<i class="fab fa-python"></i>
-
 
 ## Let's Connect
 
