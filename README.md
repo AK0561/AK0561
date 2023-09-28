@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Fullstack Development
-- 👯 I’m looking to collaborate on IoT,Frontend Development
+- 👯 I’m looking to collaborate on Internrt of Things(IoT),Frontend Development
 - 📫 How to reach me: arnav13203@gmail.com
 
 I have a strong background in Web Development, and I love diving into the world of coding and problem-solving. I'm constantly seeking opportunities to expand my knowledge and skills in the ever-evolving field of software development.
@@ -14,6 +14,7 @@ I have a strong background in Web Development, and I love diving into the world 
 ![w3_html5-icon](https://github.com/AK0561/AK0561/assets/97022114/6f816156-a667-44d6-a763-2b2e88f3cfa4)
 ![w3_css-icon](https://github.com/AK0561/AK0561/assets/97022114/550268f8-1633-4825-a299-70d928890ee4)
 ![javascript-icon](https://github.com/AK0561/AK0561/assets/97022114/7a5e81f4-e897-441c-ab26-e3ece0b3287c)
+![typescriptlang-icon](https://github.com/AK0561/AK0561/assets/97022114/09ecb4e2-8deb-44bc-ab5c-62bacf449374)
 ![reactjs-ar21](https://github.com/AK0561/AK0561/assets/97022114/261abb6e-339e-4069-aca6-abe49ec153e3)
 ![git-scm-icon](https://github.com/AK0561/AK0561/assets/97022114/95f61c69-c231-4441-86b8-fc76398ce3bb)
 ![tailwindcss-icon](https://github.com/AK0561/AK0561/assets/97022114/846950ef-4977-4eb0-a527-617b519b4d45)
