@@ -32,7 +32,6 @@ I have a strong background in Web Development, and I love diving into the world 
 
 # My GitHub Stats
 
-[![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AK0561)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK0561&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 
