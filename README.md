@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Fullstack Development
-- 👯 I’m looking to collaborate on Internrt of Things(IoT),Frontend Development
+- 🔭 I’m currently working on MERN Stack Development  
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on Internet of Things(IoT),Frontend Development
 - 📫 How to reach me: arnav13203@gmail.com
 
 I have a strong background in Web Development, and I love diving into the world of coding and problem-solving. I'm constantly seeking opportunities to expand my knowledge and skills in the ever-evolving field of software development.
@@ -17,6 +17,10 @@ I have a strong background in Web Development, and I love diving into the world 
 ![typescriptlang-icon](https://github.com/AK0561/AK0561/assets/97022114/09ecb4e2-8deb-44bc-ab5c-62bacf449374)
 ![reactjs-ar21](https://github.com/AK0561/AK0561/assets/97022114/261abb6e-339e-4069-aca6-abe49ec153e3)
 ![git-scm-icon](https://github.com/AK0561/AK0561/assets/97022114/95f61c69-c231-4441-86b8-fc76398ce3bb)
+![icons8-amazon-web-services](https://github.com/AK0561/AK0561/assets/97022114/a42407bf-4a20-4944-8515-a8fc10784a9f)
+![icons8-docker](https://github.com/AK0561/AK0561/assets/97022114/a26311c6-f4d0-4574-a6b8-a2f53a8a6046)
+![icons8-terraform](https://github.com/AK0561/AK0561/assets/97022114/7a9ceaae-8dee-44dc-a593-22eabfabd4ec)
+![icons8-ansible](https://github.com/AK0561/AK0561/assets/97022114/a27cae19-209e-4296-b62b-c1e94f8e6305)
 ![tailwindcss-icon](https://github.com/AK0561/AK0561/assets/97022114/846950ef-4977-4eb0-a527-617b519b4d45)
 ![figma-icon](https://github.com/AK0561/AK0561/assets/97022114/8b3befa4-d772-4cac-9105-862eafb6add3)
 ![canva-icon](https://github.com/AK0561/AK0561/assets/97022114/35ddf99d-a27a-46bc-9707-f2bc5dcc5075)
